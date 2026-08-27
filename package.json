@@ -1,0 +1,12 @@
+{
+  "name": "countdown-app-tasks",
+  "version": "1.0.0",
+  "description": "Countdown Timer & Notification App - task files",
+  "main": "Task1.js",
+  "scripts": {
+    "dev": "nodemon Task9.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
